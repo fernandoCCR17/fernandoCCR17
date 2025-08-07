@@ -57,7 +57,7 @@ Ampliando mi stack hacia herramientas actuales como **Next.js**, **Zustand**, **
 
 ### 📫 Conecta conmigo
 
-- [LinkedIn](www.linkedin.com/in/fernandodelacruzramos)
+- [LinkedIn](https://www.linkedin.com/in/fernandodelacruzramos/) 
 - [Portafolio](https://tuweb.com)
 - Email: **tuemail@ejemplo.com**
 
