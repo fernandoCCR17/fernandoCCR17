@@ -31,7 +31,9 @@ Algunas de las tareas y proyectos clave en los que he participado:
 
     ⚙️ Integración de sistemas internos con otros módulos a través de consumo de APIs, procesamiento de archivos planos, y sincronización de datos entre plataformas.
 
+
 Mi rol abarca tanto la lógica del lado cliente como la lógica del servidor, trabajando de manera colaborativa en un equipo ágil donde participo activamente en la planificación de nuevas funcionalidades, revisión de código y despliegue a producción.
+
 ---
 
 ### 🛠️ Tech Stack
@@ -79,7 +81,7 @@ Mi rol abarca tanto la lógica del lado cliente como la lógica del servidor, tr
 
 - [LinkedIn](https://www.linkedin.com/in/fernandodelacruzramos/) 
 - [Portafolio](https://tuweb.com)
-- Email: **tuemail@ejemplo.com**
+- Email: **fernandodelacruzramos2001@gmail.com**
 
 ---
 
