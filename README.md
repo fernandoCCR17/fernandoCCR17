@@ -14,13 +14,26 @@ Ampliando mi stack hacia herramientas actuales como **Next.js**, **Zustand**, **
 
 ---
 
-### 🚀 ¿Qué estoy haciendo ahora?
+### 💼 Experiencia Profesional
+Actualmente trabajo como Full Stack Developer en un entorno empresarial, donde soy responsable del desarrollo y mantenimiento de aplicaciones web internas utilizando Angular en el frontend y .NET (C#) en el backend.
 
-- ✅ Construyendo una **ToDo App avanzada en React** como proyecto de portafolio.
-- 📈 Diseñando un **dashboard con métricas y gráficos** (fullstack: React + .NET).
-- 🎯 Preparándome para aplicar a nuevas oportunidades como frontend developer.
-- 🧠 Estudiando mejores prácticas en diseño de componentes, hooks y performance.
+Algunas de las tareas y proyectos clave en los que he participado:
 
+    🧠 Diseño e implementación de módulos frontend con Angular, haciendo uso intensivo de componentes reutilizables, servicios, manejo de rutas y comunicación con APIs REST.
+
+    🔐 Integración de seguridad y control de acceso por roles en la interfaz, utilizando guardias, tokens y lógica de autenticación personalizada.
+
+    💬 Desarrollo de un sistema de chat interno en tiempo real para la empresa, construido con Angular + C#, incluyendo funcionalidades como múltiples canales, notificaciones, actualización en vivo y persistencia de mensajes.
+
+    🧾 Automatización de reportes PDF y generación dinámica de documentos utilizando Crystal Reports integrado a .NET.
+
+    💽 Optimización de procedimientos almacenados en SQL Server, identificación de cuellos de botella y reestructuración de consultas complejas.
+
+    🔁 Mantenimiento y evolución de APIs REST en C#, asegurando la escalabilidad, validación y consistencia de datos.
+
+    ⚙️ Integración de sistemas internos con otros módulos a través de consumo de APIs, procesamiento de archivos planos, y sincronización de datos entre plataformas.
+
+Mi rol abarca tanto la lógica del lado cliente como la lógica del servidor, trabajando de manera colaborativa en un equipo ágil donde participo activamente en la planificación de nuevas funcionalidades, revisión de código y despliegue a producción.
 ---
 
 ### 🛠️ Tech Stack
@@ -44,6 +57,15 @@ Ampliando mi stack hacia herramientas actuales como **Next.js**, **Zustand**, **
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 🚀 ¿Qué estoy haciendo ahora?
+
+- ✅ Construyendo una **ToDo App avanzada en React** como proyecto de portafolio.
+- 📈 Diseñando un **dashboard con métricas y gráficos** (fullstack: React + .NET).
+- 🎯 Preparándome para aplicar a nuevas oportunidades como frontend developer.
+- 🧠 Estudiando mejores prácticas en diseño de componentes, hooks y performance.
 
 ---
 
