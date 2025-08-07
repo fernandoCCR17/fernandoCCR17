@@ -23,8 +23,6 @@ Algunas de las tareas y proyectos clave en los que he participado:
 
     🔐 Integración de seguridad y control de acceso por roles en la interfaz, utilizando guardias, tokens y lógica de autenticación personalizada.
 
-    💬 Desarrollo de un sistema de chat interno en tiempo real para la empresa, construido con Angular + C#, incluyendo funcionalidades como múltiples canales, notificaciones, actualización en vivo y persistencia de mensajes.
-
     🧾 Automatización de reportes PDF y generación dinámica de documentos utilizando Crystal Reports integrado a .NET.
 
     💽 Optimización de procedimientos almacenados en SQL Server, identificación de cuellos de botella y reestructuración de consultas complejas.
